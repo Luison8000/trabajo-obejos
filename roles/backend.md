@@ -1,4 +1,4 @@
-#  Persona 1 — Backend Catálogo
+# Backend Catálogo
 
 ##  Objetivo
 Construir la jerarquía de productos, calcular precios finales y validar reglas de negocio.
