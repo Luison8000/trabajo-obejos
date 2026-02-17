@@ -1,6 +1,6 @@
 
 
-#  Persona 4 — Arquitecto 
+#  Arquitecto 
 
 ##  Objetivo
 Definir contratos, asegurar integraciones.
